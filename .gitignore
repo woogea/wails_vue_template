@@ -108,7 +108,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -149,7 +148,6 @@ dist
 .pnp.*
 
 frontend/wailsjs
-frontend/dist
 
 # ignore these, because this repository is template.
 frontend/package.json.md5
